@@ -39,6 +39,7 @@ The project utilized a dataset of car sales advertisements, although the focus w
 - Created a new web service linked to the GitHub repository in Render.
 - Configured the Render web service to install necessary packages and run the app.py file.
 - Deployed the final version of the application on Render.
+- Verified the application's accessibility at: https://software-development-tool.onrender.com
 
 ## Conclusion
 
