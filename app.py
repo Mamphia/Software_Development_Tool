@@ -7,8 +7,6 @@ import os
 # Provide info about project
 st.title('TripleTen: Project Four')
 st.subheader('Car Advertisement Analysis By Brandon Levan')
-st.write("Using a car advertisement data set, I've created two plots below that visual how certain attributes impact used car sales. [Here is the link to my GitHub Repository That Generates This Web App](https://github.com/brandon-levan/TripleTen_Sprint_Four_Project)")
-
 # Add divider
 st.divider()
 
