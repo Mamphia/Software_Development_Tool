@@ -40,6 +40,15 @@ The project utilized a dataset of car sales advertisements, although the focus w
 - Configured the Render web service to install necessary packages and run the app.py file.
 - Deployed the final version of the application on Render.
 - Verified the application's accessibility at: https://software-development-tool.onrender.com
+
+### How To Run This Project Locally
+If you're interested in running this project locally on your own machine, please follow along with the steps provided below -
+
+- Clone this repository and store it locally
+- As you add new Streamlit components to develop your application, you can run the streamlit run app.py command from the terminal to see what the result will look like. Do this on your local machine (preferably from a system terminal) to test that everything works before committing and pushing your changes to your own GitHub repo, if you choose to.
+- After running streamlit run app.py, you should be able to access your local test deployment using the port http://0.0.0.0:10000.
+If successful, if should see your streamlit displaying your app. However, if unsuccessful, you'll see a message that states a potential cause for an unsuccessful build. Fix the error, save, and run the command again.
+
 ## Conclusion
 
 This Streamlit application provides an interactive visualization of the Vehicle dataset. The app was developed as part of practicing software engineering tasks, namely creating Python virtual environments, developing a web application, and deploying it on a cloud service.
