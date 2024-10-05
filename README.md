@@ -46,7 +46,7 @@ If you're interested in running this project locally on your own machine, please
 
 - Clone this repository and store it locally
 - As you add new Streamlit components to develop your application, you can run the streamlit run app.py command from the terminal to see what the result will look like. Do this on your local machine (preferably from a system terminal) to test that everything works before committing and pushing your changes to your own GitHub repo, if you choose to.
-- After running streamlit run app.py, you should be able to access your local test deployment using the port http://0.0.0.0:10000.
+- After running streamlit run app.py, you should be able to access your local test deployment using the port http://0.0.0.0:10000
 If successful, if should see your streamlit displaying your app. However, if unsuccessful, you'll see a message that states a potential cause for an unsuccessful build. Fix the error, save, and run the command again.
 
 ## Conclusion
